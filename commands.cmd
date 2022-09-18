@@ -6,3 +6,6 @@ ls = lists contents of the current directory
 ls ${directory} =  lists contents of the ${directory}
 ls -a = Shows hidden files of the current directory
 ls -l = Shows long listings of the contents in the current directory
+
+
+cd ${directory} = changes directory
