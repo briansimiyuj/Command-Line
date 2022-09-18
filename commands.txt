@@ -2,3 +2,4 @@ ls --help = command manual
 date = current date
 whoami = current user
 pwd = current working directory
+ls = lists contents of the current directory
