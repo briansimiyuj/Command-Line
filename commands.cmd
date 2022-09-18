@@ -14,3 +14,4 @@ cd / = changes to the root directory
 
 
 start ${directory} = opens current directory/file in GUI
+cd .. = changes to the parent directory
