@@ -10,3 +10,4 @@ ls -l = Shows long listings of the contents in the current directory
 
 cd ${directory} = changes directory
 cd .. = changes to the previous directory
+cd / = changes to the root directory
