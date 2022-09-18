@@ -9,3 +9,4 @@ ls -l = Shows long listings of the contents in the current directory
 
 
 cd ${directory} = changes directory
+cd .. = changes to the parent directory
