@@ -1,3 +1,4 @@
 ls --help = command manual
 date = current date
 whoami = current user
+pwd = current working directory
