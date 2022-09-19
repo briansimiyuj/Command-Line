@@ -16,6 +16,7 @@ mkdir ${directory} = Creates a directory
 touch ${file} = Creates a ${file}
 rm ${file} = Deletes a ${file}      
 rm -i ${file} = Deletes a file with a prompt
+rm -r ${directory} = Deletes a ${directory} 
 
 
 start ${directory} = opens current directory/file in GUI
