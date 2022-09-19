@@ -23,6 +23,7 @@ rm -rf ${directory} = Deletes a ${directory} with contents
 
 cp ${file} ${directory}/${file} = Copying a ${file} to a ${directory}
 mv ${file} ${directory}/${file} = Moving a ${file} to a ${directory}
+mv ${current fileName/directoryName} ${desired fileName/directoryName} = Renaming files and directories
  
 
 start ${directory} = opens current directory/file in GUI
