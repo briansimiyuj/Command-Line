@@ -17,6 +17,7 @@ touch ${file} = Creates a ${file}
 rm ${file} = Deletes a ${file}      
 rm -i ${file} = Deletes a file with a prompt
 rm -r ${directory} = Deletes a ${directory} 
+rm -rf ${directory} = Deletes a ${directory} with contents
 
 
 start ${directory} = opens current directory/file in GUI
