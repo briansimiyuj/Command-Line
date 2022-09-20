@@ -29,7 +29,8 @@ cat > ${file} = Write something on the ${file} (hold ctrl + D to exit)
 cat -n ${file} = Shows line numbers
 less ${file} = Allows scrolling of the ${file}
 head ${file} = See the top of the ${file}    
-tail ${file} = See the bottom of the ${file}    
+tail ${file} = See the bottom of the ${file}
+nano ${file} = Terminal text editor     
 
 start ${directory} = opens current directory/file in GUI
 start ${website link} = Opens a link
