@@ -26,7 +26,8 @@ mv ${file} ${directory}/${file} = Moving a ${file} to a ${directory}
 mv ${current fileName/directoryName} ${desired fileName/directoryName} = Renaming files and directories
 cat ${file} = See the contents of the ${file}
 cat > ${file} = Write something on the ${file} (hold ctrl + D to exit)
-cat -n ${file} = Shows line numbers  
+cat -n ${file} = Shows line numbers
+less ${file} = Allows scrolling of the ${file}    
 
 start ${directory} = opens current directory/file in GUI
 start ${website link} = Opens a link
