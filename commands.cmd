@@ -22,6 +22,7 @@ rm -rf ${directory} = Deletes a ${directory} with contents
 
 
 cp ${file} ${directory}/${file} = Copying a ${file} to a ${directory}
+cp ${file} ../ = Copying a ${file} to the parent directory
 mv ${file} ${directory}/${file} = Moving a ${file} to a ${directory}
 mv ${file} ../ = Moving a ${file} to the parent directory
 mv ${current fileName/directoryName} ${desired fileName/directoryName} = Renaming files and directories
