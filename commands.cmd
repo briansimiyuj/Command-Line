@@ -12,6 +12,7 @@ cd ${directory} = changes directory
 cd .. = changes to the parent directory
 cd - = changes to the previous directory
 cd / = changes to the root directory
+cd - = changes to the previous working directory
 mkdir ${directory} = Creates a directory
 touch ${file} = Creates a ${file}
 rm ${file} = Deletes a ${file}      
